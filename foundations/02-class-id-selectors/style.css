@@ -1,0 +1,16 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.odd.adjust-font-size {
+    font-size: 24px;
+}
+.even#two {
+    color:blue;
+    font-size: 36px;
+}
+.even#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
